@@ -3,7 +3,9 @@
 3. Install: pip install pyvis
 4. Install: pip install networkx
 5. in console: mkdir output
-6. run: python3 NielsenTransforms.py aba ABA
+6. run: python3 NielsenTransforms.py Lefthandside Righthandside
+
+   Where Lefthandside and Righthandside are Strings.
    
 General: small letters are constants, capital letters and numbers [0-9] are variables
 
