@@ -5,7 +5,7 @@
 5. in console: mkdir output
 6. run: python3 NielsenTransforms.py aba ABA
    
-General: small letters are constants, capital letters are variables
+General: small letters are constants, capital letters and numbers [0-9] are variables
 
 Graph is stored in ouput as html file
 
